@@ -4,31 +4,10 @@
 * send repository address in reply
 * skipped-download phpstorm #do not have enough storage
 * start with nuxtjs
-* clone laravel example (sail) #wsl2 (internet cafe pc) problem, buy a flash to free some storage
-
-* create models
-
-# Models
-
-## Guest
-
-## Room
-
-## Manager
-
-## Reservations
+* start vpn
+* clone laravel example (sail) #wsl2 (internet cafe pc) problem, buy a flash to free some storage 
 
 
-# Frontend
-
-## guests list
-
-## rooms list
-
-## reservations list
-
-
-# Tests
 
 
 
