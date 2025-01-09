@@ -6,6 +6,9 @@
 * start with nuxtjs
 * clone laravel example (sail) #wsl2 (internet cafe pc) problem, buy a flash to free some storage
 
+# praying 17:45
+
+
 * create models
 
 # Models
