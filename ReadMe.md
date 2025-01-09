@@ -2,8 +2,8 @@
 
 * create repository
 * send repository address in reply
-* download phpstorm
-* clone laravel example (sail)
+* download phpstorm #do not have enough storage
+* clone laravel example (sail) #wsl2 (internet cafe pc) problem, buy a flash to free some storage
 * create models
 
 # Models
