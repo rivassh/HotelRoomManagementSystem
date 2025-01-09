@@ -18,6 +18,8 @@
 
 # start backend 18:54
 
+* although I said I start at 13:00 but I had some problems and start at 15:00 and I now times up. I will continue for myself.
 
+# adhoc: my hobby
 
 
