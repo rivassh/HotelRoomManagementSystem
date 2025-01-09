@@ -10,3 +10,10 @@
 
 * use pnpm (my preffered manager because of some benchmarks)
 
+* remove default git for nuxt-app
+
+* `pnpm install`
+
+* run using `pnpm run dev`
+
+* use tailwindcss `pnpm i -D @nuxtjs/tailwindcss nuxt-icon`

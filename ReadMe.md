@@ -8,6 +8,16 @@
 
 # praying 17:45
 
+# Last try to complete
+
+* install windows terminal offlie(because of sanctions) #first one use windows with docker ( I'm a linux fan), most of my challenges was on windows and docker
+
+* use 403.online instead of vpn
+
+* do some jobs manually
+
+# start backend 18:54
+
 
 
 
